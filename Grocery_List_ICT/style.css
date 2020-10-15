@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+#containerbig{
+    position: absolute;   
+}
+
+table{
+    position: fixed;
+    top: 10em;
+    left: 22em;
+    animation: tableanime 6000ms ease forwards;
+}
+
+
+thead,tbody{
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Indie Flower', cursive;
+}
+
+th,td{
+    padding: 10px;
+}
+
+
+.clippingboard{
+    position: fixed;
+    top:-8em;
+    left: 13em;
+    height: 65em;
+    width: 65em;
+}
+
+#title{
+    position: fixed;
+    left:7em;
+    font-family: 'Grand Hotel', cursive;
+    font-size: 5em; 
+    z-index: 1;
+    animation: title 3000ms ease-in forwards;
+}
+
+.btn{
+    position: fixed;
+    left:5em;
+    top:5em;
+    cursor: pointer;
+    border-radius: 100%;
+    border: solid #c70039;
+}
+
+@keyframes tableanime{
+    0%{opacity: 0;}
+    50%{opacity: 0.5;}
+    100%{opacity: 1;}
+}
+
+@keyframes title{
+    0%{transform: scale(0.1)}
+    100%{transform: scale(1)}
+}

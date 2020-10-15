@@ -1,0 +1,98 @@
+{
+    "all":[
+        {
+            "SL_NO": 1, 
+            "ITEM": "Bathing Soap" ,
+            "QUANTITY": 5,
+            "UNIT": "pieces",
+            "DEPARTMENT": "Hygiene",
+            "NOTES": "Buy Lifebouy"
+        },
+        {
+            "SL_NO": 2, 
+            "ITEM": "Hand Sanitizer",
+            "QUANTITY": 2,
+            "UNIT": "bottles",
+            "DEPARTMENT":"Hygiene",
+            "NOTES": "Spraying sanitizer"
+        },
+        {
+            "SL_NO":3, 
+            "ITEM":"Pril",
+            "QUANTITY": 1,
+            "UNIT":"Litre",
+            "DEPARTMENT": "Household",
+            "NOTES": "Check for free"
+        },
+        {
+            "SL_NO":4, 
+            "ITEM":"Washing powder",
+            "QUANTITY":2,
+            "UNIT":"kg",
+            "DEPARTMENT":"Household",
+            "NOTES": "Buy Surf Excel"
+        },
+        {
+            "SL_NO": 5, 
+            "ITEM": "Tomato",
+            "QUANTITY": 3,
+            "UNIT":"kg",
+            "DEPARTMENT": "Grocery",
+            "NOTES": "Buy small ones"
+        },
+        {
+            "SL_NO": 6, 
+            "ITEM": "Onion",
+            "QUANTITY": 5,
+            "UNIT":"kg",
+            "DEPARTMENT":"Grocery",
+            "NOTES": "Buy big ones"
+        },
+        {
+            "SL_NO": 7, 
+            "ITEM":"Garlic",
+            "QUANTITY": 1,
+            "UNIT":"kg",
+            "DEPARTMENT": "Grocery",
+            "NOTES":"Buy split ones"
+        },
+        {
+            "SL_NO":8, 
+            "ITEM":"Eggs",
+            "QUANTITY":10,
+            "UNIT": "pieces",
+            "DEPARTMENT": "Grocery",
+            "NOTES": "Duck eggs"
+        },
+        {
+            "SL_NO":9, 
+            "ITEM":"Battery cell",
+            "QUANTITY":4,
+            "UNIT":"pieces",
+            "DEPARTMENT":"Electronics",
+            "NOTES":"AAA"
+        },
+        {
+            "SL_NO":10, 
+            "ITEM":"Pen",
+            "QUANTITY":3,
+            "UNIT":"pieces",
+            "DEPARTMENT":"Stationary",
+            "NOTES":"Gel pen"
+        }
+        
+        
+ 
+    ]
+
+}
+
+
+
+
+
+
+
+
+
+
